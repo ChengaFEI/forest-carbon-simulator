@@ -2,6 +2,8 @@
 Growth Dominance Coefficient (GDC) is an indicator comparing the contribution to the stand growth between larger and smaller trees.
 It is defined as positive when larger trees in the stand display proportionally greater growth than smaller trees, and negative when smaller trees display greater growth than larger trees.
 It can be used to assess the efficacy of thinning treatments designed to reduce the source competition between trees and promote high levels of productivity.
+
+Belows are detailed explanations of applying GDC in the forest resource management.
 ### Phase 1: Null Growth Dominance (Early development)
 Resource competition is low and total stand growth is proportionate to its mass.
 ### Phase 2: Positive Growth Dominance
