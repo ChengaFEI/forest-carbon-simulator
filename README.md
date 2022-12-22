@@ -17,3 +17,7 @@ Smaller trees contribute more to the total stand growth.
 Current Stands Condition:
 This stand consists of 41 trees, among which 27 trees are in fair/good growing conditions. Over half of them are Ash trees.
 The age class of the current stand is diversified, ranging from 2.4 - 56 years old. According to the Growth Dominance Coefficient, the stand is in the fourth phase -- the reverse growth dominance -- where smaller trees contribute more to the total stand growth.
+
+### Possibility of Broader Application
+The program encapsulates functions of calculating the wood mass, carbon sink, and the biodiversity index for arbitrary forest datasets after arbitrary years of simulation. It also offers the procedures to pre-process excel/csv files and load the data, and the procedures to plot simulation results in a 3d fashion.
+This simulator can be used as a reference for designing the forest landscape or managing the silviculture treatments.
